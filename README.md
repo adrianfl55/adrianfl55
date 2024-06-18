@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="[AF1QipMOkv6ngGjW1gaRT0T0axrXqpUosg9qARjVrsvQ](https://photos.google.com/photo/AF1QipMOkv6ngGjW1gaRT0T0axrXqpUosg9qARjVrsvQ)"  />
+  <img height="150" src="https://photos.google.com/photo/AF1QipMOkv6ngGjW1gaRT0T0axrXqpUosg9qARjVrsvQ"  />
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
