@@ -18,6 +18,6 @@ Hola, soy Adrián y desde muy pequeñito siempre me ha gustado la tecnología y 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1--iNCwmqtWb4t_o1dkyUXFTOVr2PWg5F/view?usp=drive_link)
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1--iNCwmqtWb4t_o1dkyUXFTOVr2PWg5F)
 
 [LinkedIn](https://www.linkedin.com/in/adrián-freijeiro/)
