@@ -53,7 +53,14 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/adrianfl55/adrianfl55/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+
 
 ###
 
