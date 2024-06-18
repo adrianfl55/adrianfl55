@@ -1,73 +1,23 @@
-<!--
-**adrianfl55/adrianfl55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I’m Adrián
 
-Here are some ideas to get you started:
+Hola, soy Adrián y desde muy pequeñito siempre me ha gustado la tecnología y el mundo de la informática. Actualmente estoy enfocado en la rama de Datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 📚 Aprendiendo y estudiando sobre Ingeniería de Datos
+- 🎯 En Septiembre de 2024 empiezo mi Erasmus en Maribor, Eslovenia, una de las Universidades con más historia de Europa
+- 🎵 De pequeño siempre me gustó la música, y en 2022 acabé el Grado Profesional de Música en Percusión
 
-<h1 align="left">Hi👋, I´m Adrián</h1>
+## I code with
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+![R](https://img.shields.io/badge/-R-000?&logo=r)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apache-hadoop)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
-###
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1--iNCwmqtWb4t_o1dkyUXFTOVr2PWg5F/view?usp=drive_link)
 
-<p align="left">Hola, soy Adrián y desde muy pequeñito siempre me ha gustado la tecnología y el mundo de la informática. Actualmente estoy enfocado en la rama de Datos</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Aprendiendo y estudiando sobre Ingeniería de Datos<br><br>🎯 En Septiembre de 2024 empiezo mi Erasmus en Maribor, Eslovenia, una de las Universidades con más historia de Europa<br><br>📚 De pequeño siempre me gustó la música, y en 2022 acabé el Grado Profesional de Música en Percusión</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1--iNCwmqtWb4t_o1dkyUXFTOVr2PWg5F/view?usp=drive_link" />
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/adrián-freijeiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/adrián-freijeiro/)
