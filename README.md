@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="image1.jpg" />
+  <img height="150" src="images/image1.jpg" />
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
