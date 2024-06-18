@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="150" src="images/image1.jpg" />
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 
