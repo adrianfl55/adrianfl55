@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  ![memoji](image1.jpg)
-  <img height="150" src="(https://raw.githubusercontent.com/adrianfl55/adrianfl55/master/image1.jpg"  />
+  <img height="150" src="https://drive.google.com/file/d/1--iNCwmqtWb4t_o1dkyUXFTOVr2PWg5F/view?usp=drive_link" />
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
