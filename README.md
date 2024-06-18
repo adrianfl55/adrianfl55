@@ -79,3 +79,9 @@ Here are some ideas to get you started:
 
 ###
 
+<!-- LinkedIn Link with Logo -->
+<div align="center">
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/adrián-freijeiro)
+</div>
+
+
