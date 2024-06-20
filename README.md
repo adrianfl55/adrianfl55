@@ -59,6 +59,7 @@ Here are some ideas to get you started:
   <img width="12" />
 </div>
 
+<!-- DESCOMENTAR CUANDO TENGAS MEJORES ESTADÍSTICAS Y MÁS PROYECTOS SUBIDOS
 ###
 
 <h2 align="left">Stats</h2>
@@ -79,6 +80,7 @@ Here are some ideas to get you started:
   <img height="150" src="images/image1.jpg" />
 </div>
 
+-->
 
 ###
 
