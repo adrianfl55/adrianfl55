@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 [![Adrianfl55's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianfl55&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+-->
+
 ###
 
 <br clear="both">
@@ -79,8 +81,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="150" src="images/image1.jpg" />
 </div>
-
--->
 
 ###
 
