@@ -61,12 +61,21 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davevad93&show_icons=true&locale=en&layout=compact&theme=onedark" alt="davevad93" width=460 /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&locale=en&theme=onedark" alt="davevad93" width=460 /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=davevad93&&theme=onedark" alt="davevad93" width=460 /></p>
+</div>
+
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img height="150" src="images/image1.jpg" />
 </div>
-
 
 
 ###
