@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianfl55&&theme=onedark" alt="adrianfl55" width=460 /></p>
 </div>
 
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianfl55&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Adrianfl55's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianfl55&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
