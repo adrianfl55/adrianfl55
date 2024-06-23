@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Aprendiendo y estudiando sobre Ingeniería de Datos<br><br>🎯 En Septiembre de 2024 empiezo mi Erasmus en Maribor, Eslovenia, una de las Universidades con más historia de Europa<br><br>🎵 De pequeño siempre me gustó la música, y en 2022 acabé el Grado Profesional de Música en Percusión</p>
+<p align="left">📚 Aprendiendo y estudiando sobre Ingeniería de Datos<br><br>🎯 En Octubre de 2024 empiezo mi Erasmus en Maribor, Eslovenia, una de las Universidades con más historia de Europa<br><br>🎵 De pequeño siempre me gustó la música, y en 2022 acabé el Grado Profesional de Música en Percusión</p>
 
 ###
 
