@@ -59,7 +59,6 @@ Here are some ideas to get you started:
   <img width="12" />
 </div>
 
-<!-- DESCOMENTAR CUANDO TENGAS MEJORES ESTADÍSTICAS Y MÁS PROYECTOS SUBIDOS
 ###
 
 <h2 align="left">Stats</h2>
